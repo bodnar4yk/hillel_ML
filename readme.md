@@ -1,3 +1,4 @@
 # Hi this is repo of Lera!
 
-THis is ny repo
+THis is my repo
+I'm very glad to have it!!
